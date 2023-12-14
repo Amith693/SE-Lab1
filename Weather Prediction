@@ -1,4 +1,4 @@
-#this python code predics weather using certain inputs\
+#this python code predics weather using certain inputs
 
 t=int(input("Enter the number: "))
 h=int(input("Enter the number: "))
